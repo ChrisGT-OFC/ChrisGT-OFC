@@ -9,8 +9,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-  
+### 🤖 Linguagens
  <img 
     align="left" 
     alt="HTML"
